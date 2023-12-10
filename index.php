@@ -52,7 +52,7 @@
 
                 <div class="btn-group btodt" role="group" aria-label="Basic example">                 
                   <button type="button" onclick="window.open('https://nubecolectiva.com/donaciones','_blank')" class="btn btn-warning">Donar</button>                 
-                  <button type="button" onclick="window.open('https://blog.nubecolectiva.com/mostrar-un-mensaje-en-una-determinada-fecha-con-javascript/','_blank')" class="btn btn-info">Tutorial</button>
+                  <button type="button" onclick="window.open('https://www.youtube.com/watch?v=h4sEyegMscc','_blank')" class="btn btn-info">Tutorial</button>
                 </div>
                 
               </div>
